@@ -1,0 +1,5 @@
+id,date,product_id,quantity,price,discount_price,region,total_sales,net_sales
+1, 2023-01-01,101,2,20,2,A,40,36
+2, 2023-01-02,102,1,35,3,A,35,32
+101, 2023-01-01,201,5,15,2,B,75,65
+102, 2023-01-03,202,2,50,5,B,100,90
